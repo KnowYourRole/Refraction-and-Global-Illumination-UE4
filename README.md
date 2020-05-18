@@ -3,7 +3,7 @@ This project includes 4 sample pools with water refraction materials, a post pro
 
 <p align="center">
   <br></br>
-<img src="Images/Generations.png">
+<img src="Gifs/1.gif">
   <br></br>
 <img src="Images/Voronoi_Implementation.png">
   
