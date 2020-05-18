@@ -5,6 +5,10 @@ This project includes 4 sample pools with water refraction materials, a post pro
   <br></br>
 <img src="Gifs/1.gif">
   <br></br>
-<img src="Images/Voronoi_Implementation.png">
+<img src="Gifs/2.gif">
+  <br></br>
+<img src="Gifs/3.gif">
+  <br></br>
+  <img src="Gifs/4.gif">
   
 </p>
